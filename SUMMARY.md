@@ -40,4 +40,5 @@
   * [frpc.ini](qi-ta/frpcini.md)
   * [aria2 Linux 配置](qi-ta/aria2-linux-pei-zhi.md)
   * [ecs开启虚拟内存](qi-ta/ecskai-qi-xu-ni-nei-cun.md)
+  * [v2ray](qi-ta/v2ray.md)
 
