@@ -1,4 +1,4 @@
-```
+```yml
 version: "2"
 services: 
   gitea:
