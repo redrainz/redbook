@@ -22,4 +22,5 @@
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 * [kafka](kafka.md)
   * [springboot kafka](kafka/springboot-kafka.md)
+  * [spring-kafka](kafka/spring-kafka.md)
 
