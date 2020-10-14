@@ -14,4 +14,5 @@
   * elasticsearch
     * [elasticsearch简介](javatech/elasticsearchjian-jie.md)
     * [Query DSL简介](javatech/query-dsljian-jie.md)
+    * [es+kibana+IK](javatech/es+kibana+ik.md)
 
