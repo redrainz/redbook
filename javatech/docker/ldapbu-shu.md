@@ -1,7 +1,7 @@
-## 1.docker-compose.yml
+## docker-compose.yml
 ---
-```yml
 
+```yml
 version: '2'
 services:
   openldap:
