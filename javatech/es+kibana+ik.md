@@ -1,4 +1,4 @@
-### es+kibana docker-compose.yml
+### es kibana docker-compose.yml
 ```yml
 version: '3'
 services:
