@@ -36,4 +36,6 @@
   * [BBR加速](qi-ta/bbrjia-su.md)
   * [trojan](trojan.md)
   * [linux安装mysql](qi-ta/linuxan-zhuang-mysql.md)
+  * [shadowsocks](qi-ta/shadowsocks.md)
+  * [frpc.ini](qi-ta/frpcini.md)
 
