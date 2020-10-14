@@ -29,4 +29,6 @@
 * [其他](qi-ta.md)
 * ldap
   * [ldap接入yapi](ldapjie-ru-yapi.md)
+  * [ldap接入jenkins](ldapjie-ru-jenkins.md)
+  * [ldap 接入gitlab](ldap-jie-ru-gitlab.md)
 
