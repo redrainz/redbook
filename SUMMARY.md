@@ -38,4 +38,5 @@
   * [linux安装mysql](qi-ta/linuxan-zhuang-mysql.md)
   * [shadowsocks](qi-ta/shadowsocks.md)
   * [frpc.ini](qi-ta/frpcini.md)
+  * [aria2 Linux 配置](qi-ta/aria2-linux-pei-zhi.md)
 
