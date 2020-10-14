@@ -17,6 +17,7 @@
   * [Dockerfile范例](javatech/docker/dockerfilefan-li.md)
   * [常用软件](javatech/docker/chang-yong-ruan-jian.md)
   * [gitea+drone部署](javatech/docker/gitea+dronebu-shu.md)
+  * [kafka部署](javatech/docker/kafkabu-shu.md)
 * [CI-CD](ci-cd.md)
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 
