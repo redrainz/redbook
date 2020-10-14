@@ -26,4 +26,7 @@
   * [springboot kafka](kafka/springboot-kafka.md)
 * sql
   * [case](case.md)
+* [其他](qi-ta.md)
+* ldap
+  * [ldap接入yapi](ldapjie-ru-yapi.md)
 
