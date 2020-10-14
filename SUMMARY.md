@@ -34,4 +34,6 @@
   * [ldap 接入gitlab](ldap-jie-ru-gitlab.md)
 * [其他](qi-ta.md)
   * [BBR加速](qi-ta/bbrjia-su.md)
+  * [trojan](trojan.md)
+  * [linux安装mysql](qi-ta/linuxan-zhuang-mysql.md)
 
