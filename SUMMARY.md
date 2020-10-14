@@ -19,6 +19,7 @@
   * [gitea+drone部署](javatech/docker/gitea+dronebu-shu.md)
   * [kafka部署](javatech/docker/kafkabu-shu.md)
   * [ldap部署](javatech/docker/ldapbu-shu.md)
+  * [nextcloud部署](javatech/docker/nextcloudbu-shu.md)
 * [CI-CD](ci-cd.md)
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 * [kafka](kafka.md)
@@ -27,9 +28,9 @@
   * [springboot kafka](kafka/springboot-kafka.md)
 * sql
   * [case](case.md)
-* [其他](qi-ta.md)
 * ldap
   * [ldap接入yapi](ldapjie-ru-yapi.md)
   * [ldap接入jenkins](ldapjie-ru-jenkins.md)
   * [ldap 接入gitlab](ldap-jie-ru-gitlab.md)
+* [其他](qi-ta.md)
 
