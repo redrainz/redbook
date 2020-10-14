@@ -18,5 +18,5 @@
   * [常用软件](javatech/docker/chang-yong-ruan-jian.md)
   * [gitea+drone部署](javatech/docker/gitea+dronebu-shu.md)
 * [CI-CD](ci-cd.md)
-  *  gitlab-ci.yml
+  * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 
