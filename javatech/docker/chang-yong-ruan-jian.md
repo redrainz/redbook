@@ -3,14 +3,13 @@
 1. macOs
 ```
 docker run --name mysql -d -v /Users/redrain/dockerData/mysql/conf:/etc/mysql/conf.d -v /Users/redrain/dockerData/mysql/data:/var/lib/mysql  -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root mysql
-
 ```
 2. linux
 ```
 docker run --name mysql -d -v /Users/redrain/dockerData/mysql/conf:/etc/mysql/conf.d -v /Users/redrain/dockerData/mysql/data:/var/lib/mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root mysql
 ```
-
 3. 设置
+
 ```
 ALTER USER root@localhost IDENTIFIED WITH mysql_native_password BY 'root'; 
 
@@ -18,8 +17,8 @@ ALTER USER root@'%' IDENTIFIED WITH mysql_native_password BY 'root';
 
 FLUSH PRIVILEGES;
 ```
-
 ### mongo
+
 ```
 docker run -p 27017:27017 -v /home/redrain/docker/mongo:/data/db --name mongo -d mongo
 ```
@@ -30,7 +29,6 @@ docker run -p 27017:27017 -v /home/redrain/docker/mongo:/data/db --name mongo -d
 ```
 docker run -d -v /home/redrain/docker/registry:/var/lib/registry -p 5000:5000 --restart=always --name registry registry
 ```
-
 2. 配置
 ```
 {"insecure-registries":[66.42.69.240:5000]}
