@@ -18,6 +18,7 @@
   * [常用软件](javatech/docker/chang-yong-ruan-jian.md)
   * [gitea+drone部署](javatech/docker/gitea+dronebu-shu.md)
   * [kafka部署](javatech/docker/kafkabu-shu.md)
+  * [ldap部署](javatech/docker/ldapbu-shu.md)
 * [CI-CD](ci-cd.md)
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 * [kafka](kafka.md)
