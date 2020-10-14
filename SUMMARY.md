@@ -13,9 +13,9 @@
   * [es+kibana+IK](javatech/es+kibana+ik.md)
   * [全文搜索](javatech/quan-wen-sou-suo.md)
 * [docker](javatech/docker.md)
-  * [常用软件](javatech/docker/chang-yong-ruan-jian.md)
   * [Dockerfile语法](javatech/docker/dockerfileyu-fa.md)
   * [Dockerfile范例](javatech/docker/dockerfilefan-li.md)
+  * [常用软件](javatech/docker/chang-yong-ruan-jian.md)
   * [gitea+drone部署](javatech/docker/gitea+dronebu-shu.md)
 * [CI-CD](ci-cd.md)
 
