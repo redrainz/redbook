@@ -20,6 +20,7 @@
   * [kafka部署](javatech/docker/kafkabu-shu.md)
   * [ldap部署](javatech/docker/ldapbu-shu.md)
   * [nextcloud部署](javatech/docker/nextcloudbu-shu.md)
+  * [es+kibana部署](javatech/docker/es+kibanabu-shu.md)
 * [CI-CD](ci-cd.md)
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 * [kafka](kafka.md)
