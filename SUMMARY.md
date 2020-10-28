@@ -7,6 +7,7 @@
   * [jvm](javatech/jvm.md)
     * [Java内存区域与内存溢出异常](javatech/jvm/javanei-cun-qu-yu-yu-nei-cun-yi-chu-yi-chang.md)
     * [jvm参数配置](javatech/jvm/jvmcan-shu-pei-zhi.md)
+    * [lock](javatech/jvm/lock.md)
   * [spring](javatech/spring.md)
     * [流程图](javatech/liu-cheng-tu.md)
 * [elasticsearch](elasticsearch.md)
