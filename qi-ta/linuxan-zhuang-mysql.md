@@ -23,7 +23,7 @@ exit
 service mysql restart
 
 #配置root远程登陆
-grant all on *.* to root@'%' identified by '密码' with grant option;
+grant all on *.* to root@'%' identified by 'Red123' with grant option;
 flush privileges;
 exit
 

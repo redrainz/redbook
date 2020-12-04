@@ -23,6 +23,7 @@
   * [ldap部署](javatech/docker/ldapbu-shu.md)
   * [nextcloud部署](javatech/docker/nextcloudbu-shu.md)
   * [es+kibana部署](javatech/docker/es+kibanabu-shu.md)
+  * [nextcloud](javatech/docker/nextcloud.md)
 * [CI-CD](ci-cd.md)
   * [gitlab-ci.yml](ci-cd/gitlab-ciyml.md)
 * [kafka](kafka.md)
@@ -47,4 +48,5 @@
   * [aria2](qi-ta/aria2.md)
 * linux
   * [树莓派开机自启动](shu-mei-pai-kai-ji-zi-qi-dong.md)
+  * [挂载目录](gua-zai-mu-lu.md)
 
