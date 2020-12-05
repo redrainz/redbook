@@ -1,5 +1,6 @@
-
+/etc/fstab
 ### 挂载目录
+#### /etc/fstab
 ```
 proc            /proc           proc    defaults          0       0
 PARTUUID=6c586e13-01  /boot           vfat    defaults          0       2

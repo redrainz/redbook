@@ -49,4 +49,5 @@
 * linux
   * [树莓派开机自启动](shu-mei-pai-kai-ji-zi-qi-dong.md)
   * [挂载目录](gua-zai-mu-lu.md)
+  * [树莓派docker应用](shu-mei-pai-docker-ying-yong.md)
 
