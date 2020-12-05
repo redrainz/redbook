@@ -2,3 +2,6 @@
 
 
 docker run --name mysql -d -v /home/pi/outdisk/mysql/conf:/etc/mysql/conf.d -v /home/pi/outdisk/mysql/data:/var/lib/mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root --restart=always  qics/mysql:5.7_pi 
+
+
+docker run --name es -p 9200:9200 -d --restart=always pestotoast/elasticsearch-armhf
