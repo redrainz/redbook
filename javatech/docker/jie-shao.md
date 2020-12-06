@@ -1,4 +1,3 @@
-0. 项目 `dockerdemo` `es-search`
 1. docker与虚拟机
     1. 虚拟机：虚拟机是目前在IT架构中运用最广泛的一种虚拟化技术，它的目的主要是通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统，并且提高服务器的利用率。看一下虚拟机的架构图：
     ![](/assets/20200804230340578.png)
@@ -21,7 +20,7 @@
     8. 查看全部容器 `docker container ls -a`
     9. 删除容器 `docker rm gitlab`
     10. 删除镜像 `docker rmi gitlab`
-5. 自己打包镜像
+5. 自己打包镜像(`dockerdemo`)
     1. 编写Dockerfile
     ```yml
         FROM openjdk:8
@@ -44,7 +43,7 @@
      docker run --name demo -d -p 8081:8080 localhost:5000/demo:1.0  
     ```
 7. 其他
-    1. docker-compose
+    1. docker-compose(`es-search`)
     2. CI/CD
     3. IDEA对docker的支持
     4. 国内镜像仓库
