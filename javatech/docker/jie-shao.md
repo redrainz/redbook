@@ -29,4 +29,5 @@
         EXPOSE 8080
         CMD ['java','-jar','/app/dockerdemo-0.0.1-SNAPSHOT.jar']
     ```
+    2. 打包镜像 `docker build -t demo:1.0 .`
     
