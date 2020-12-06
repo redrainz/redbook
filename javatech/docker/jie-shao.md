@@ -37,4 +37,7 @@
      docker pull registry
      docker run --name registry -p  5000:5000  registry
      docker build -t localhost:5000/demo:1.0 .
+     docker push  localhost:5000/demo:1.0
+     docker pull localhost:5000/demo:1.0     
+     docker run --name demo -d -p 8081:8080 localhost:5000/demo:1.0  
     ```
