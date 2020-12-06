@@ -20,4 +20,12 @@
     8. 删除容器 `docker rm gitlab`
     9. 删除镜像 `docker rm gitlab`
 5. 自己打包镜像
-    
+    1. 编写Dockerfile
+    ```yml
+        FROM openjdk:8
+        MAINTAINER redrain
+            WORKDIR /app
+        ADD dockerdemo-0.0.1-SNAPSHOT.jar /app
+        EXPOSE 8080
+        CMD ['java','-jar','/app/dockerdemo-0.0.1-SNAPSHOT.jar']
+    ```
