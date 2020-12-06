@@ -1,4 +1,4 @@
-## gitlab-ci.yml
+## .gitlab-ci.yml
 
 ```yml
 stages:
