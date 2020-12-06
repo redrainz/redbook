@@ -44,5 +44,9 @@
 7. 其他
     1. CI/CD
     2. IDEA对docker的支持
-    3. 
+    3. 国内镜像仓库
+    ```
+    http://registry.docker-cn.com
+    http://hub-mirror.c.163.com
+    ```
 
