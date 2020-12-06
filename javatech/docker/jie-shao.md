@@ -43,9 +43,9 @@
      docker run --name demo -d -p 8081:8080 localhost:5000/demo:1.0  
     ```
 7. 其他
-    1. docker-compose(`es-search`)
+    1. IDEA对docker的支持
     2. CI/CD
-    3. IDEA对docker的支持
+    3. docker-compose(`es-search`)
     4. 国内镜像仓库
     ```
     http://registry.docker-cn.com
