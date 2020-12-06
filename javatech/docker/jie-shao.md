@@ -12,4 +12,12 @@
 4. docker的使用（gitlab）
     1. 查找镜像 `docker search gitlab`
     2. 下载镜像 `docker pull gitlab/gitlab-ce`
-    3. 运行镜像 ``
+    3. 查看镜像列表 `docker images`
+    4. 生成容器并运行 `docker run --name gitlab -d -p 8081:80 gitlab/gitlab-ce`
+    5. 查看正在运行的容器列表 `docker ps`
+    6. 查看容器运行日志 `docker logs gitlab`
+    7. 停止容器 `docker stop gitlab`
+    8. 删除容器 `docker rm gitlab`
+    9. 删除镜像 `docker rm gitlab`
+5. 自己打包镜像
+    
