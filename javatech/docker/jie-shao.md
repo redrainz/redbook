@@ -42,7 +42,7 @@
      docker run --name demo -d -p 8081:8080 localhost:5000/demo:1.0  
     ```
 7. 其他
-    1. CICD
+    1. CI/CD
     2. IDEA对docker的支持
     3. 
 
