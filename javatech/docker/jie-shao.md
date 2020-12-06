@@ -21,7 +21,7 @@
     9. 删除镜像 `docker rm gitlab`
 5. 自己打包镜像
     1. 编写Dockerfile
-    ```yml
+    ```
         FROM openjdk:8
         MAINTAINER redrain
             WORKDIR /app
