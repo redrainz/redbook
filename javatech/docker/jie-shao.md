@@ -17,8 +17,9 @@
     5. 查看正在运行的容器列表 `docker ps`
     6. 查看容器运行日志 `docker logs gitlab`
     7. 停止容器 `docker stop gitlab`
-    8. 删除容器 `docker rm gitlab`
-    9. 删除镜像 `docker rmi gitlab`
+    8. 查看全部容器 `docker container ls -a`
+    9. 删除容器 `docker rm gitlab`
+    10. 删除镜像 `docker rmi gitlab`
 5. 自己打包镜像
     1. 编写Dockerfile
     ```yml
