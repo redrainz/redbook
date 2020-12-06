@@ -43,9 +43,10 @@
      docker run --name demo -d -p 8081:8080 localhost:5000/demo:1.0  
     ```
 7. 其他
-    1. CI/CD
-    2. IDEA对docker的支持
-    3. 国内镜像仓库
+    1. docker-compose
+    2. CI/CD
+    3. IDEA对docker的支持
+    4. 国内镜像仓库
     ```
     http://registry.docker-cn.com
     http://hub-mirror.c.163.com
