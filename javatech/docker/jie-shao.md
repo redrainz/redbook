@@ -48,6 +48,7 @@
     3. docker-compose(`es-search`)
     4. 国内镜像仓库
     ```
+    https://docker.mirrors.ustc.edu.cn
     http://registry.docker-cn.com
     http://hub-mirror.c.163.com
     ```
