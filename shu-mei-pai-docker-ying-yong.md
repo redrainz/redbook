@@ -8,3 +8,7 @@ docker run --name mysql -d -v /home/pi/outdisk/mysql/conf:/etc/mysql/conf.d -v /
 
 
 docker run -d -p 5001:80 --name registry-web --link registry-ser -e REGISTRY_URL=http://192.168.2.106:5000/v2 chillout2k/registry-ui-arm32v6:master
+
+
+
+docker run -d --name es  -p 9200:9200 -p 9300:9300 -v /home/pi/outdisk/elasticsearch/data:/usr/share/elasticsearch/data -v /home/pi/outdisk/elasticsearch/logs:/usr/share/elasticsearch/logs 192.168.2.106:5000/barasher/elasticsearch-arm:7.10.0
