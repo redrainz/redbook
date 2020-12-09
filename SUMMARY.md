@@ -33,6 +33,7 @@
   * [springboot kafka](kafka/springboot-kafka.md)
 * sql
   * [case](case.md)
+  * [binlog恢复数据](binlog.md)
 * ldap
   * [ldap接入yapi](ldapjie-ru-yapi.md)
   * [ldap接入jenkins](ldapjie-ru-jenkins.md)
